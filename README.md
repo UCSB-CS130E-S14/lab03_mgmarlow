@@ -1,4 +1,4 @@
-lab03_mgmarlow
-==============
+CS130E-S14-Labs
+===============
 
-lab03 for Graham Marlow
+labs for CS130E-S14
